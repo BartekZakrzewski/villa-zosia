@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.roomCard{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    border-radius: 2rem;
+    border: 1px solid black;
+    background: #7F7FD5;
+    background: -webkit-linear-gradient(45deg, #91EAE4, #86A8E7, #7F7FD5);
+    background: linear-gradient(45deg, #91EAE4, #86A8E7, #7F7FD5);
+
+    max-width: 300px;
+
+    font-family: 'Lato', sans-serif;
+    margin: auto;
+}
+
+.img{
+    width: 100%;
+}
+
+.roomContainer{
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.roomTitle{
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.nPeople{
+    margin-bottom: 1rem;
+    text-transform: capitalize;
+    color: #eee;
+}
+
+.btn{
+    text-transform: uppercase;
+    border: 4px solid #fff;
+    font-weight: 900;
+    color: #fff;
+    padding: .5rem 1rem;
+    border-radius: 1rem;
+    background-color: #ccc0;
+
+    transition: background-color 200ms ease-in-out;
+
+    text-decoration: none;
+}
+
+.btn:hover{
+    background-color: #ddd;
+}

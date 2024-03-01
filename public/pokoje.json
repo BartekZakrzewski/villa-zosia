@@ -1,0 +1,135 @@
+{
+    "apartament": {
+        "id": "apartament",
+        "photo": "",
+        "title": "Apartament",
+        "n_people": "czteroosobowy apartament",
+        "desc": ""
+    },
+    "pokoj-nr-6": {
+        "id": "pokoj-nr-6",
+        "photo": "",
+        "title": "Apartament",
+        "n_people": "dwuosobowy apartament",
+        "desc": ""
+    },
+    "pokoj-nr-1": {
+        "id": "pokoj-nr-1",
+        "photo": "",
+        "title": "Pokój nr 1 parter",
+        "n_people": "pokój czteroosobowy",
+        "desc": ""
+    },
+    "pokoj-nr-1-pietro": {
+        "id": "pokoj-nr-1-pietro",
+        "photo": "",
+        "title": "Pokój nr 1 piętro",
+        "n_people": "pokój pięcioosobowy",
+        "desc": ""
+    },
+    "pokoj-nr-2": {
+        "id": "pokoj-nr-2",
+        "photo": "",
+        "title": "Pokój nr 2 parter",
+        "n_people": "pokój pięcioosobowy",
+        "desc": ""
+    },
+    "pokoj-nr-2-pietro": {
+        "id": "pokoj-nr-2-pietro",
+        "photo": "",
+        "title": "Pokój nr 2 piętro",
+        "n_people": "pokój czteroosobowy",
+        "desc": ""
+    },
+    "pokoj-nr-3-pietro": {
+        "id": "pokoj-nr-3-pietro",
+        "photo": "",
+        "title": "Pokój nr 3 piętro",
+        "n_people": "pokój czteroosobowy",
+        "desc": ""
+    },
+    "pokoj-nr-4": {
+        "id": "pokoj-nr-4",
+        "photo": "",
+        "title": "Pokój nr 4 parter",
+        "n_people": "czteroosobowy apartament",
+        "desc": ""
+    },
+    "pokoj-nr-4-pietro": {
+        "id": "pokoj-nr-4-pietro",
+        "photo": "",
+        "title": "Pokój nr 4 piętro",
+        "n_people": "pokój czteroosobowy",
+        "desc": ""
+    },
+    "pokoj-nr-5": {
+        "id": "pokoj-nr-5",
+        "photo": "",
+        "title": "Pokój nr 5 parter",
+        "n_people": "pokój pięcioosobowy",
+        "desc": ""
+    },
+    "pokoj-nr-5-pietro": {
+        "id": "pokoj-nr-5-pietro",
+        "photo": "",
+        "title": "Pokój nr 5 piętro",
+        "n_people": "pokój trzyosobowy",
+        "desc": ""
+    },
+    "pokoj-nr-6-pietro": {
+        "id": "pokoj-nr-6-pietro",
+        "photo": "",
+        "title": "Pokój nr 6 piętro",
+        "n_people": "pokój trzyosobowy",
+        "desc": ""
+    },
+    "pokoj-nr-7-pietro": {
+        "id": "pokoj-nr-7-pietro",
+        "photo": "",
+        "title": "Pokój nr 7 piętro",
+        "n_people": "pokój trzyosobowy",
+        "desc": ""
+    },
+    "pokoj-nr-8-pietro": {
+        "id": "pokoj-nr-8-pietro",
+        "photo": "",
+        "title": "Pokój nr 8 piętro",
+        "n_people": "pokój czteroosobowy",
+        "desc": ""
+    },
+    "pokoj-nr-9-pietro": {
+        "id": "pokoj-nr-9-pietro",
+        "photo": "",
+        "title": "Pokój nr 9 piętro",
+        "n_people": "pokój trzyosobowy",
+        "desc": ""
+    },
+    "pokoj-nr-10": {
+        "id": "pokoj-nr-10",
+        "photo": "",
+        "title": "Pokój nr 10 piętro",
+        "n_people": "pokój dwuosobowy",
+        "desc": ""
+    },
+    "pokoj-nr-11-pietro": {
+        "id": "pokoj-nr-11-pietro",
+        "photo": "",
+        "title": "Pokój nr 11 piętro",
+        "n_people": "pokój trzyosobowy",
+        "desc": ""
+    },
+    "pokoj-nr-12-pietro": {
+        "id": "pokoj-nr-12-pietro",
+        "photo": "",
+        "title": "Pokój nr 12 piętro",
+        "n_people": "pokój trzyosobowy",
+        "desc": ""
+    },
+    "pokoj-nr-13": {
+        "id": "pokoj-nr-13",
+        "photo": "",
+        "title": "Pokój nr 13",
+        "n_people": "pokój dwuosobowy",
+        "desc": ""
+    }
+}

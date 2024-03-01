@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.container{
+    background-color: #444;
+    padding: 6rem 0 0 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.main{
+    width: 50%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    color: #fff;
+
+    border: 1px solid #fff;
+
+    margin-bottom: 3rem;
+}
+
+.title{
+    margin: 0;
+    background-color: #333;
+    width: 100%;
+    padding: 2rem;
+}
+
+.art{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.img{
+    width: 100%;
+    aspect-ratio: 4 / 3;
+}
+
+.paragraph{
+    margin: 0;
+    background-color: #333;
+    padding: 2rem;
+}
+
+.container:nth-child(3){
+    margin-top: 5rem;
+}
+
+@media screen and (width <= 767px){
+    .main{
+        width: 80%;
+    }
+}
